@@ -1,8 +1,4 @@
 ## Hugo Quick Start
-### Theme
-- hugo-tranquilpeak-theme
-
-![Theme](https://github.com/user-attachments/assets/b57bcb4f-fe55-4031-b553-fa8afc1dc444)
 
 ### Get Started
 
@@ -21,3 +17,8 @@ sudo apt install hugo
 ```
 hugo server -D
 ```
+
+### hugo-tranquilpeak-theme
+
+![Theme](https://github.com/user-attachments/assets/b57bcb4f-fe55-4031-b553-fa8afc1dc444)
+
